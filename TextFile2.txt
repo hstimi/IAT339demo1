@@ -1,5 +1,7 @@
 This is text file 2. 
 
+edit in branch2
+
 
 edit in branch1
 
